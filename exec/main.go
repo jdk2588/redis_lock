@@ -55,7 +55,7 @@ func main() {
   fmt.Println("Running simulation with " + strconv.Itoa(len(redisn)) + " servers and " + strconv.Itoa(len(clients)) + " clients for " + strconv.Itoa(S.Env.MessageCount) + " messages.\n")
 
   if S.Env.Mock {
-    fmt.Println("In mock mode, set mock to true in config file and add redis nodes. \n")
+    fmt.Println("In mock mode, set mock to false in config file to run with actual redis nodes. \n")
   }
 
   time.Sleep(1*time.Second)
