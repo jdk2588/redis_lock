@@ -1,0 +1,15 @@
+servers:
+  -
+    "rnode0.in:6379"
+  -
+    "rnode1.in:6379"
+  -
+    "rnode2.in:6379"
+  -
+    "rnode3.in:6389"
+  -
+    "rnode4.in:6389"
+
+mock: false
+numberofclients: 7
+partitiontype: region

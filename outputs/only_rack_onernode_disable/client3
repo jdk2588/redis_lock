@@ -1,0 +1,62 @@
+Giving lock to client2 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Unable to acquire lock! client0 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client1 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client2 rnode1.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Giving lock to client1 rnode1.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Giving lock to client2 rnode2.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Redis node not reachable! client2 rnode3.in:6389 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client1 rnode2.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client2 rnode4.in:6389 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Redis node not reachable! client1 rnode3.in:6389 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Marking node deactive client2 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Releasing lock for client2 rnode2.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Releasing lock for client2 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Re-election suggested by client2 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Giving lock to client0 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client1 rnode4.in:6389 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Marking node deactive client1 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Releasing lock for client1 rnode1.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client1 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Re-election suggested by client1 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Giving lock to client1 rnode1.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client0 rnode1.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Unable to acquire lock! client0 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Giving lock to client0 rnode2.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client1 rnode2.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client0 rnode4.in:6389 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Random partition error! client1 rnode4.in:6389 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Marking node deactive client1 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Releasing lock for client1 rnode1.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Re-election suggested by client1 b8eabd53-618e-49c3-94b7-7acc91b5f453
+
+Unable to acquire lock! client0 rnode0.in:6379 b8eabd53-618e-49c3-94b7-7acc91b5f453
+

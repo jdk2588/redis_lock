@@ -1,0 +1,30 @@
+Giving lock to client8 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client0 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Giving lock to client8 rnode1 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client1 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Giving lock to client8 rnode2 777efb8c-e103-492b-b370-b68668c8115e
+
+Redis node not reachable! client8 rnode3 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client6 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client2 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client5 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client7 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client3 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Rack partition error! client4 rnode0 777efb8c-e103-492b-b370-b68668c8115e
+
+Unable to acquire lock! client4 rnode1 777efb8c-e103-492b-b370-b68668c8115e
+
+Rack partition error! client8 rnode4 777efb8c-e103-492b-b370-b68668c8115e
+
+Lock acquired by client8 777efb8c-e103-492b-b370-b68668c8115e
+

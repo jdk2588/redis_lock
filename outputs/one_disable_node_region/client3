@@ -1,0 +1,34 @@
+Giving lock to client0 rnode0 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Unable to acquire lock! client2 rnode0 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Region partition  error! client1 rnode0 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Region partition  error! client0 rnode1 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Giving lock to client1 rnode1 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Giving lock to client0 rnode2 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Redis node not reachable! client0 rnode3 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Giving lock to client0 rnode4 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Lock acquired by client0 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Region partition  error! client1 rnode2 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Redis node not reachable! client1 rnode3 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Region partition  error! client1 rnode4 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Marking node deactive client1 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Releasing lock for client1 rnode1 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Re-election suggested by client1 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Unable to acquire lock! client2 rnode0 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+
+Unable to acquire lock! client0 rnode0 3ef4d5d8-7811-476b-9e08-cf5c51a8a8fd
+

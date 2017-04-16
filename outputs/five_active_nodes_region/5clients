@@ -1,0 +1,68 @@
+Giving lock to client4 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client0 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client2 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client4 rnode1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client3 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client1 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Giving lock to client4 rnode2 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Giving lock to client3 rnode1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client1 rnode1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client3 rnode2 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client4 rnode3 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Giving lock to client3 rnode3 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Giving lock to client4 rnode4 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Lock acquired by client4 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client3 rnode4 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Marking node deactive client3 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Releasing lock for client3 rnode3 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Releasing lock for client3 rnode1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Re-election suggested by client3 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client4 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client0 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client2 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client1 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Giving lock to client1 rnode1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client1 rnode2 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Giving lock to client1 rnode3 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Region partition  error! client1 rnode4 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Marking node deactive client1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Releasing lock for client1 rnode3 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Releasing lock for client1 rnode1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Re-election suggested by client1 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client4 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client0 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+
+Unable to acquire lock! client2 rnode0 bbeafef7-0cc2-40d8-8a56-99c919b36f47
+

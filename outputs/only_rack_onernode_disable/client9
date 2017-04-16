@@ -1,0 +1,356 @@
+Giving lock to client0 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client7 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client0 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client7 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client1 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client0 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Redis node not reachable! client0 rnode3.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client7 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Redis node not reachable! client7 rnode3.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client0 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client0 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client0 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client0 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client0 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Redis node not reachable! client5 rnode3.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Redis node not reachable! client4 rnode3.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Redis node not reachable! client6 rnode3.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client7 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client7 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client7 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client7 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client4 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client4 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client4 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client7 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client8 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client1 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client7 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client4 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client8 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client1 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client1 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client8 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client1 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client1 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client1 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client1 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client1 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client4 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client4 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client4 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client1 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client4 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client4 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client4 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client4 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client4 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Giving lock to client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client4 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client5 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client5 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client6 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client6 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode2.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode4.in:6389 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Marking node deactive client3 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Releasing lock for client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Random partition error! client3 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client3 rnode1.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Re-election suggested by client3 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client8 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+
+Unable to acquire lock! client2 rnode0.in:6379 464b3aa8-4739-4c73-bfef-235256ac1f40
+

@@ -1,0 +1,46 @@
+Giving lock to client10 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client0 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client8 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client2 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client1 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client5 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client3 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client7 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client6 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Rack partition error! client4 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Rack partition error! client9 rnode0 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Giving lock to client4 rnode1 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Rack partition error! client10 rnode1 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client9 rnode1 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Giving lock to client10 rnode2 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Rack partition error! client10 rnode3 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Rack partition error! client4 rnode2 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Giving lock to client4 rnode3 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Giving lock to client10 rnode4 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Lock acquired by client10 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Unable to acquire lock! client4 rnode4 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Releasing lock for client4 rnode3 58a795e9-ef8c-4723-a715-53cad1549bd0
+
+Releasing lock for client4 rnode1 58a795e9-ef8c-4723-a715-53cad1549bd0
+

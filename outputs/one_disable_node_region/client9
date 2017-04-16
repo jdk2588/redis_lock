@@ -1,0 +1,170 @@
+Giving lock to client8 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client0 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client4 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client2 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client8 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client6 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client5 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client7 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client3 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client1 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Giving lock to client6 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Giving lock to client8 rnode2 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Redis node not reachable! client8 rnode3 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client5 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client7 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Giving lock to client8 rnode4 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Lock acquired by client8 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client3 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client1 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client6 rnode2 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Redis node not reachable! client6 rnode3 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client6 rnode4 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Marking node deactive client6 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Releasing lock for client6 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Re-election suggested by client6 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client2 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client8 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client0 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client4 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client7 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client5 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client1 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client3 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Giving lock to client7 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client5 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client1 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client3 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client7 rnode2 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client7 rnode4 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Marking node deactive client7 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Releasing lock for client7 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Re-election suggested by client7 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client8 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client2 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client0 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client4 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client3 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client5 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client1 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Giving lock to client3 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client5 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client1 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client3 rnode2 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client3 rnode4 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Marking node deactive client3 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Releasing lock for client3 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Re-election suggested by client3 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client0 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client2 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client8 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client4 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client5 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client1 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Giving lock to client5 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client1 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client5 rnode2 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client5 rnode4 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Marking node deactive client5 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Releasing lock for client5 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Re-election suggested by client5 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client0 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client8 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client2 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client4 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client1 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Giving lock to client1 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client1 rnode2 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Region partition  error! client1 rnode4 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Marking node deactive client1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Releasing lock for client1 rnode1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Re-election suggested by client1 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client2 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client8 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client4 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+
+Unable to acquire lock! client0 rnode0 f3c1bdb8-e7f9-476a-a97c-10371b4a809a
+

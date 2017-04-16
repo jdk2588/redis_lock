@@ -1,0 +1,152 @@
+Giving lock to client0 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client3 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client3 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client0 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client0 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Redis node not reachable! client0 rnode3.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client3 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Redis node not reachable! client3 rnode3.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client0 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Marking node deactive client0 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client0 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client0 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Re-election suggested by client0 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client3 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Marking node deactive client3 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client3 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Redis node not reachable! client4 rnode3.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Re-election suggested by client3 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client4 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Marking node deactive client4 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client4 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client3 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Re-election suggested by client4 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client2 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client3 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client2 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client3 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client2 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client3 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Marking node deactive client3 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client3 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Re-election suggested by client3 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client4 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Marking node deactive client4 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client4 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Re-election suggested by client4 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client4 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Giving lock to client4 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Marking node deactive client4 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client4 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Re-election suggested by client4 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode2.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Random partition error! client1 rnode4.in:6389 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Marking node deactive client1 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Releasing lock for client1 rnode1.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Re-election suggested by client1 091a2c38-e262-4268-b35f-6d570c7b735a
+
+Unable to acquire lock! client2 rnode0.in:6379 091a2c38-e262-4268-b35f-6d570c7b735a
+

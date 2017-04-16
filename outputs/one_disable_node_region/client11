@@ -1,0 +1,226 @@
+Giving lock to client2 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client4 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client0 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client8 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client9 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client10 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client2 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client1 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client3 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client7 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client5 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client10 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client2 rnode2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Redis node not reachable! client2 rnode3 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client1 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client2 rnode4 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Lock acquired by client2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client3 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client7 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client6 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client5 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client10 rnode2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Redis node not reachable! client10 rnode3 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client10 rnode4 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Marking node deactive client10 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Releasing lock for client10 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Re-election suggested by client10 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client0 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client9 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client2 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client4 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client8 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client3 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client7 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client1 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client5 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client3 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client6 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client7 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client1 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client5 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client3 rnode2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client3 rnode4 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Marking node deactive client3 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Releasing lock for client3 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Re-election suggested by client3 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client2 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client9 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client4 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client8 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client0 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client7 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client1 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client5 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client7 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client1 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client5 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client6 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client7 rnode2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client7 rnode4 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Marking node deactive client7 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Releasing lock for client7 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Re-election suggested by client7 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client0 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client9 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client2 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client8 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client4 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client1 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client5 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client1 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client6 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client5 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client1 rnode2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client1 rnode4 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Marking node deactive client1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Releasing lock for client1 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Re-election suggested by client1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client9 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client4 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client0 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client2 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client8 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client5 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client5 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client6 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client5 rnode2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client5 rnode4 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Marking node deactive client5 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Releasing lock for client5 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Re-election suggested by client5 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client9 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client4 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client0 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client2 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client8 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Giving lock to client6 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode2 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Region partition  error! client6 rnode4 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Marking node deactive client6 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Releasing lock for client6 rnode1 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Re-election suggested by client6 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client9 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client2 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client0 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client8 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+
+Unable to acquire lock! client4 rnode0 907f01ba-6f11-4cb2-be67-3b14f26b95c8
+

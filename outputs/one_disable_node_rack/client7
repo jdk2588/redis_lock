@@ -1,0 +1,52 @@
+Giving lock to client6 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client3 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client1 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client0 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client5 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client2 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Rack partition error! client4 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Rack partition error! client6 rnode1 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Giving lock to client4 rnode1 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Giving lock to client6 rnode2 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Redis node not reachable! client6 rnode3 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Giving lock to client6 rnode4 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Lock acquired by client6 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Rack partition error! client4 rnode2 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Redis node not reachable! client4 rnode3 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client4 rnode4 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Releasing lock for client4 rnode1 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Marking node deactive client4 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Releasing lock for client4 rnode1 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Re-election suggested by client4 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client1 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client6 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client2 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client3 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client5 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+
+Unable to acquire lock! client0 rnode0 7a55943d-a5c9-4b78-943e-ad0c1d209d31
+

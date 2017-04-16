@@ -1,0 +1,16 @@
+Giving lock to client2 rnode0 8c034552-fb77-4028-a6ce-45ef536230e1
+
+Unable to acquire lock! client1 rnode0 8c034552-fb77-4028-a6ce-45ef536230e1
+
+Unable to acquire lock! client0 rnode0 8c034552-fb77-4028-a6ce-45ef536230e1
+
+Giving lock to client2 rnode1 8c034552-fb77-4028-a6ce-45ef536230e1
+
+Giving lock to client2 rnode2 8c034552-fb77-4028-a6ce-45ef536230e1
+
+Redis node not reachable! client2 rnode3 8c034552-fb77-4028-a6ce-45ef536230e1
+
+Rack partition error! client2 rnode4 8c034552-fb77-4028-a6ce-45ef536230e1
+
+Lock acquired by client2 8c034552-fb77-4028-a6ce-45ef536230e1
+

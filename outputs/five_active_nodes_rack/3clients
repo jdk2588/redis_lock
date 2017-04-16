@@ -1,0 +1,16 @@
+Giving lock to client2 rnode0 43d5794c-74c2-4bb3-96b3-41a93045806b
+
+Unable to acquire lock! client1 rnode0 43d5794c-74c2-4bb3-96b3-41a93045806b
+
+Giving lock to client2 rnode1 43d5794c-74c2-4bb3-96b3-41a93045806b
+
+Unable to acquire lock! client0 rnode0 43d5794c-74c2-4bb3-96b3-41a93045806b
+
+Giving lock to client2 rnode2 43d5794c-74c2-4bb3-96b3-41a93045806b
+
+Giving lock to client2 rnode3 43d5794c-74c2-4bb3-96b3-41a93045806b
+
+Rack partition error! client2 rnode4 43d5794c-74c2-4bb3-96b3-41a93045806b
+
+Lock acquired by client2 43d5794c-74c2-4bb3-96b3-41a93045806b
+

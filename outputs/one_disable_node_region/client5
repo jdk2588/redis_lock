@@ -1,0 +1,62 @@
+Giving lock to client4 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client2 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client0 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client4 rnode1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client3 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client1 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Giving lock to client3 rnode1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Giving lock to client4 rnode2 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Redis node not reachable! client4 rnode3 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client1 rnode1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Giving lock to client4 rnode4 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Lock acquired by client4 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client3 rnode2 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Redis node not reachable! client3 rnode3 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client3 rnode4 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Marking node deactive client3 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Releasing lock for client3 rnode1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Re-election suggested by client3 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client4 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client2 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client0 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client1 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Giving lock to client1 rnode1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client1 rnode2 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Region partition  error! client1 rnode4 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Marking node deactive client1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Releasing lock for client1 rnode1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Re-election suggested by client1 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client4 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client0 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+
+Unable to acquire lock! client2 rnode0 d0a7fc87-d9e6-472b-ad11-ebbccb86a36c
+

@@ -1,0 +1,136 @@
+Giving lock to client0 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client2 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client4 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client0 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client1 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client3 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client6 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client5 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client0 rnode2 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client1 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client6 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client3 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client5 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client1 rnode2 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client0 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client0 rnode4 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Lock acquired by client0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client1 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client1 rnode4 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Marking node deactive client1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client1 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client1 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Re-election suggested by client1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client2 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client4 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client0 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client3 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client6 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client5 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client3 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client6 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client5 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client3 rnode2 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client3 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client3 rnode4 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Marking node deactive client3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client3 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client3 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Re-election suggested by client3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client2 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client4 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client0 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client5 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client6 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client5 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client6 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client5 rnode2 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client5 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client5 rnode4 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Marking node deactive client5 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client5 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client5 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Re-election suggested by client5 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client2 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client4 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client0 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client6 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client6 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client6 rnode2 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Giving lock to client6 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Region partition  error! client6 rnode4 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Marking node deactive client6 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client6 rnode3 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Releasing lock for client6 rnode1 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Re-election suggested by client6 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client4 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client0 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+
+Unable to acquire lock! client2 rnode0 542d1d9d-8c48-4823-a87b-1d79125a3ac1
+

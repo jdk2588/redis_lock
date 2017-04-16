@@ -1,0 +1,36 @@
+Giving lock to client6 rnode0 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Unable to acquire lock! client3 rnode0 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Unable to acquire lock! client5 rnode0 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Unable to acquire lock! client1 rnode0 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Unable to acquire lock! client0 rnode0 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Unable to acquire lock! client2 rnode0 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Rack partition error! client6 rnode1 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Rack partition error! client4 rnode0 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Giving lock to client4 rnode1 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Giving lock to client6 rnode2 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Rack partition error! client4 rnode2 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Rack partition error! client6 rnode3 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Giving lock to client6 rnode4 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Lock acquired by client6 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Giving lock to client4 rnode3 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Unable to acquire lock! client4 rnode4 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Releasing lock for client4 rnode3 f607284e-0912-4acf-8f95-f6b2dbe12683
+
+Releasing lock for client4 rnode1 f607284e-0912-4acf-8f95-f6b2dbe12683
+

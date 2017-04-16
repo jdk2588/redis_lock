@@ -1,0 +1,36 @@
+Giving lock to client2 rnode0 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Unable to acquire lock! client0 rnode0 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Region partition  error! client1 rnode0 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Region partition  error! client2 rnode1 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Giving lock to client1 rnode1 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Giving lock to client2 rnode2 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Region partition  error! client2 rnode3 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Region partition  error! client1 rnode2 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Giving lock to client2 rnode4 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Lock acquired by client2 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Giving lock to client1 rnode3 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Region partition  error! client1 rnode4 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Marking node deactive client1 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Releasing lock for client1 rnode3 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Releasing lock for client1 rnode1 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Re-election suggested by client1 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Unable to acquire lock! client0 rnode0 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+
+Unable to acquire lock! client2 rnode0 1ad109fa-febb-424e-ab4a-36a8eb8eda30
+

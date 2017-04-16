@@ -1,0 +1,22 @@
+Giving lock to client0 rnode0 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Unable to acquire lock! client2 rnode0 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Giving lock to client0 rnode1 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Unable to acquire lock! client3 rnode0 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Giving lock to client0 rnode2 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Unable to acquire lock! client1 rnode0 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Giving lock to client0 rnode3 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Rack partition error! client4 rnode0 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Unable to acquire lock! client4 rnode1 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Rack partition error! client0 rnode4 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+
+Lock acquired by client0 7ef786ca-2b0d-4b79-b53b-190edb5036e3
+

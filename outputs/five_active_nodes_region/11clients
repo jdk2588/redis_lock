@@ -1,0 +1,248 @@
+Giving lock to client0 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client8 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client9 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client4 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client2 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client10 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client6 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client7 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client5 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client0 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client1 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client10 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client0 rnode2 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client6 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client7 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client5 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client3 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client1 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client0 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client10 rnode2 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client0 rnode4 03d124d5-fa1b-488e-a341-34f620af9140
+
+Lock acquired by client0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client10 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client10 rnode4 03d124d5-fa1b-488e-a341-34f620af9140
+
+Marking node deactive client10 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client10 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client10 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Re-election suggested by client10 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client0 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client4 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client2 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client9 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client8 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client1 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client7 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client5 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client6 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client1 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client7 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client5 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client3 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client6 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client1 rnode2 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client1 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client1 rnode4 03d124d5-fa1b-488e-a341-34f620af9140
+
+Marking node deactive client1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client1 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client1 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Re-election suggested by client1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client2 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client0 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client9 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client8 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client4 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client6 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client5 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client7 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client6 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client5 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client7 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client3 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client6 rnode2 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client6 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client6 rnode4 03d124d5-fa1b-488e-a341-34f620af9140
+
+Marking node deactive client6 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client6 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client6 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Re-election suggested by client6 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client0 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client9 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client4 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client8 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client2 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client7 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client5 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client7 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client3 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client5 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client7 rnode2 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client7 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client7 rnode4 03d124d5-fa1b-488e-a341-34f620af9140
+
+Marking node deactive client7 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client7 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client7 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Re-election suggested by client7 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client9 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client0 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client2 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client8 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client4 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client5 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client5 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client3 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client5 rnode2 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client5 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client5 rnode4 03d124d5-fa1b-488e-a341-34f620af9140
+
+Marking node deactive client5 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client5 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client5 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Re-election suggested by client5 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client9 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client4 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client8 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client0 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client2 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client3 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode2 03d124d5-fa1b-488e-a341-34f620af9140
+
+Giving lock to client3 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Region partition  error! client3 rnode4 03d124d5-fa1b-488e-a341-34f620af9140
+
+Marking node deactive client3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client3 rnode3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Releasing lock for client3 rnode1 03d124d5-fa1b-488e-a341-34f620af9140
+
+Re-election suggested by client3 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client2 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client4 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client9 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client8 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+
+Unable to acquire lock! client0 rnode0 03d124d5-fa1b-488e-a341-34f620af9140
+

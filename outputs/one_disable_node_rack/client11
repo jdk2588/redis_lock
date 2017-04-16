@@ -1,0 +1,36 @@
+Giving lock to client3 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client10 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Giving lock to client3 rnode1 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client6 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Giving lock to client3 rnode2 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Redis node not reachable! client3 rnode3 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client7 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client8 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Giving lock to client3 rnode4 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Lock acquired by client3 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client5 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client0 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client1 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client2 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Rack partition error! client4 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Rack partition error! client9 rnode0 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client4 rnode1 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+
+Unable to acquire lock! client9 rnode1 e4a80562-ca60-49b5-b76b-6bc01df60ee2
+

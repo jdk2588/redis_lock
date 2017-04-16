@@ -1,0 +1,11 @@
+servers:
+  -
+    "rnode0.in:6379"
+  -
+    "rnode1.in:6379"
+  -
+    "rnode2.in:6379"
+
+mock: false
+numberofclients: 7
+partitiontype: rack
