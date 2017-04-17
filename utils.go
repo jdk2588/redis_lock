@@ -31,52 +31,52 @@ var boldCyan = cyan.Add(color.Bold)
 
 func detailLog(text, senderId string, node1, node2 Instance) {
      if Env.Debug {
-       fmt.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId+"\n")
+       fmt.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId)
      }
 }
 
 func clientLog(text, senderId string, node1 Instance) {
      if Env.Debug {
-       fmt.Println(text+" "+node1.getIdent()+" "+senderId+"\n")
+       fmt.Println(text+" "+node1.getIdent()+" "+senderId)
      }
 }
 
 func simpleLog(text string){
     if Env.Debug {
-      fmt.Println(text+"\n")
+      fmt.Println(text)
     }
 }
 
 func failLog(text, senderId string, node1, node2 Instance) {
     if Env.Debug {
-     boldRed.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId+"\n")
+     boldRed.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId)
     }
 }
 
 func lockGiven(text, senderId string, node1, node2 Instance) {
     if Env.Debug {
-       boldYellow.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId+"\n")
+       boldYellow.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId)
     }
 }
 
 func successLog(text, senderId string, node1 Instance) {
-      boldGreen.Println(text+" "+node1.getIdent()+" "+senderId+"\n")
+      boldGreen.Println(text+" "+node1.getIdent()+" "+senderId)
 }
 
 func inactiveLog(text, senderId string, node1 Instance) {
     if Env.Debug {
-      boldBlue.Println(text+" "+node1.getIdent()+" "+senderId+"\n")
+      boldBlue.Println(text+" "+node1.getIdent()+" "+senderId)
     }
 }
 
 func lockRelease(text, senderId string, node1, node2 Instance) {
     if Env.Debug {
-     boldMagenta.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId+"\n")
+     boldMagenta.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId)
     }
 }
 
 func noLockgiven(text, senderId string, node1, node2 Instance) {
     if Env.Debug {
-     boldCyan.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId+"\n")
+     boldCyan.Println(text+" "+node1.getIdent()+" "+node2.getIdent()+" "+senderId)
    }
 }
