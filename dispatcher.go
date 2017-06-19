@@ -22,7 +22,7 @@ func simulate(message string, redisn []*RedisNode, clients []*Client) {
     c.redisNodes = redisn
     c.setQuorum()
 
-    go c.Process(message, &wg1)
+    go c.process(message, &wg1)
 
    }
 

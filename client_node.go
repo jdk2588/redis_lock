@@ -65,7 +65,7 @@ func (c *Client) getQuorum() int {
 func (c *Client) setQuorum() {
      c.Lock()
      defer c.Unlock()
-     c.quorum = len(c.redisNodes)/2 + 1
+     c.quorum = len(Env.Servers)/2  + 1
 }
 
 func oneClient(index int) *Client {

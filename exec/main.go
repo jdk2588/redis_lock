@@ -3,6 +3,7 @@ package main
 import (
   "os"
   "fmt"
+  "log"
   "flag"
   "sync"
   "time"
@@ -27,7 +28,13 @@ func usage() {
         os.Exit(0)
 }
 
+func timeTrack(start time.Time, name string) {
+    elapsed := time.Since(start)
+    log.Printf("%s took %s", name, elapsed)
+}
+
 func main() {
+  defer timeTrack(time.Now(), "RediSimulator")
   var wg sync.WaitGroup
 
   var configFile string

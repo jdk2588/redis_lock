@@ -2,9 +2,10 @@ package simulator
 
 import (
  "sync"
+ "strconv"
 )
 
-func (c *Client) Process(msg string, wg *sync.WaitGroup) {
+func (c *Client) process(msg string, wg *sync.WaitGroup) {
 
   defer wg.Done()
 
@@ -20,7 +21,7 @@ func (c *Client) Process(msg string, wg *sync.WaitGroup) {
 
   for _, r := range c.redisNodes {
       var nolock = false
-      if err := r.Lock(m, c); err != nil {
+      if err := r.lock(m, c); err != nil {
 
         switch err {
           case lockfail:
@@ -32,10 +33,11 @@ func (c *Client) Process(msg string, wg *sync.WaitGroup) {
                 m.incNAnodes()
         }
 
-        if nolock {
+        if (nolock && len(m.getLockedNodes()) < c.quorum)  {
           c.releaseLocks(m)
           break
         }
+
       } else {
         m.pushLockedNodes(r)
       }
@@ -46,7 +48,7 @@ func (c *Client) Process(msg string, wg *sync.WaitGroup) {
       c.deactivate()
       c.releaseLocks(m)
 
-      inactiveLog("Re-election suggested by", msg, c)
+      inactiveLog("Re-start suggested by", msg, c)
 
       redisn := GetRedisNodes(Env.Servers)
       clients := GetClients()
@@ -54,7 +56,7 @@ func (c *Client) Process(msg string, wg *sync.WaitGroup) {
   }
 
   if (len(m.getLockedNodes()) >= c.quorum) {
-      successLog("Lock acquired by", msg, c)
+      successLog("Lock acquired with quorum " + strconv.Itoa(c.quorum), msg, c)
   }
 }
 
@@ -63,7 +65,7 @@ func (c *Client) releaseLocks(cm *Message) {
     for i := len(locksAc) - 1 ; i >= 0; i-- {
           rn := locksAc[i]
           lockRelease("Releasing lock for", cm.key, c, rn)
-          err := rn.Unlock(cm)
+          err := rn.unLock(cm)
 
           //If not able to release lock, how to handle
           if (err != nil) {

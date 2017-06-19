@@ -1,0 +1,20 @@
+Clients
+0, 1, 2
+Server
+0, 1, 2, 3, 4
+
+Rack1 - Region1 
+Server - 4,0
+Client - 0
+
+Rack2 - Region1
+Server - 1
+Client - 1
+
+Rack1 - Region2
+Server - 2
+Client - 2
+
+Rack2 - Region2
+Server - 3
+

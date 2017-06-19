@@ -12,10 +12,10 @@ servers:
     "rnode4.in:6389"
 
 #If not able to run actual redis servers, set mock to true
-mock: true
+mock: false
 
 #Number of clients, upto 12 clients can be added(To stimulate)
-numberofclients: 7
+numberofclients: 3
 
 #Choose any one from three partitions [rack, region, rack+region]. Add a new type of partition in partitions.go
 partitiontype: rack
@@ -25,9 +25,13 @@ messages: 1
 
 #Simulate with a failed redis node ?
 failanyredis: true
-#Choose a index number starting from 0 to (n-1) where n is total number of redis servers.
-#this node will be unreachable to all the clients. Only one node could be failed
-failredisnode: 3
+
+failredisnodes:
+  -
+    "rnode1.in:6379"
+  -
+    "rnode2.in:6379"
+
 
 #Output messages
 debug: true

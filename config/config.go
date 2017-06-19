@@ -12,7 +12,7 @@ type Settings struct {
   PartitionType string `yaml:"partitiontype"`
   MessageCount int `yaml:"messages"`
   FailAnyRedis bool `yaml:"failanyredis"`
-  FailRedisNode int `yaml:"failredisnode"`
+  FailRedisNode []string `yaml:"failredisnodes"`
   Debug bool `yaml:"debug"`
 }
 

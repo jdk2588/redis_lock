@@ -50,9 +50,18 @@ func (r *RedisNode) isActive() bool {
     return !r.killed
 }
 
-func (r *RedisNode) Lock(m *Message, c *Client) error {
+func contains(s []string, e string) bool {
+    for _, a := range s {
+        if a == e {
+            return true
+        }
+    }
+    return false
+}
 
-  if Env.FailAnyRedis && r.getIdent() == Env.Servers[Env.FailRedisNode] {
+func (r *RedisNode) lock(m *Message, c *Client) error {
+
+  if Env.FailAnyRedis && contains(Env.FailRedisNode, r.getIdent()) {
       r.deactivate()
       return nodeerror
   }
@@ -75,7 +84,7 @@ func (r *RedisNode) Lock(m *Message, c *Client) error {
     }
 
     if ok {
-  		return lockfail
+        return lockfail
     } else {
       r.lockProvided[m.key] = c.getIdent()
     }
@@ -85,13 +94,13 @@ func (r *RedisNode) Lock(m *Message, c *Client) error {
     v, e := conn.Do("SET", m.key, m.value, "NX", "EX", m.ttl)
     conn.Close()
 
-  	if e != nil {
-  		return e
-  	}
+    if e != nil {
+        return e
+    }
 
-  	if v == nil {
-  		return lockfail
-  	}
+    if v == nil {
+        return lockfail
+    }
   }
 
   lockGiven("Giving lock to", m.key, c, r)
@@ -99,7 +108,7 @@ func (r *RedisNode) Lock(m *Message, c *Client) error {
 
 }
 
-func (r *RedisNode) Unlock(m *Message) error {
+func (r *RedisNode) unLock(m *Message) error {
   r.mu.Lock()
   defer r.mu.Unlock()
 
@@ -110,13 +119,13 @@ func (r *RedisNode) Unlock(m *Message) error {
     v, e := delScript.Do(conn, m.key, m.value)
     conn.Close()
 
-  	if e != nil {
-  		return e
-  	}
+    if e != nil {
+        return e
+    }
 
-  	if v == nil {
-  		return unlockfail
-  	}
+    if v == nil {
+        return unlockfail
+    }
   }
 
   return nil
